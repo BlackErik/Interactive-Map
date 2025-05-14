@@ -1,0 +1,10 @@
+svg {
+  width: 70%;
+  height: 100vh;
+  display: inline;
+  background-color: #f6eee3;
+}
+
+path:hover {
+  fill: green;
+}

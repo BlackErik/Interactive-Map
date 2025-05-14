@@ -1,0 +1,11 @@
+div {
+  width: 30%;
+  height: 100vh;
+  float: right;
+  background-color: #e8dacc;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.5rem;
+}
