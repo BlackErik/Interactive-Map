@@ -1,6 +1,7 @@
-#Interactive Map App, click a country and see more info
+Interactive Map App, click a country and see more info
 Made with angular
 Uses world bank api
+
 
 Student ID:
 012270636
